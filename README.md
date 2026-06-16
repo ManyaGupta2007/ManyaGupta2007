@@ -154,6 +154,4 @@ Problem-solving, automation, and mini applications using Python.
 
 💚 Have a wonderful day! 💚
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="150">
-
 </div>
